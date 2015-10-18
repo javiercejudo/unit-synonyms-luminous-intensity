@@ -1,0 +1,36 @@
+{
+  "name": "unit-synonyms-luminous-intensity",
+  "version": "0.0.0",
+  "description": "Luminous intensity units synonyms",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javiercejudo/unit-synonyms-luminous-intensity"
+  },
+  "keywords": [
+    "unit-synonyms",
+    "conversion",
+    "luminosity",
+    "light intensity",
+    "luminous intensity"
+  ],
+  "author": "Javier Cejudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javiercejudo/unit-synonyms-luminous-intensity/issues"
+  },
+  "homepage": "https://github.com/javiercejudo/unit-synonyms-luminous-intensity",
+  "devDependencies": {
+    "for-own": "^0.1.3",
+    "gulp": "^3.8.11",
+    "gulp-coveralls": "^0.1.3",
+    "gulp-istanbul": "^0.6.0",
+    "gulp-mocha": "^2.0.0",
+    "rescale": "^6.1.0",
+    "rimraf": "^2.3.2",
+    "should": "^5.0.0"
+  }
+}
