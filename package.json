@@ -1,6 +1,6 @@
 {
   "name": "unit-synonyms-luminous-intensity",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Luminous intensity units synonyms",
   "main": "src/index.js",
   "scripts": {
